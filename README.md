@@ -37,7 +37,7 @@ Currently looking for a internship / job 🔎 [Email me](mailto:helloshibanibiz@
 ### 🌟 Projects
 - [BoomBikes Demand Prediction](https://github.com/helloshibani/BoomBikes-Demand-Prediction)
 - [Banking Risk Analytics EDA](https://github.com/helloshibani/Banking-Risk-Analytics-EDA)
-- [RSVP Analysis](https://github.com/helloshibani/RSVP)
+- [RSVP Analysis](https://github.com/helloshibani/RSVP_CASE_Study)
 
 ---
 
