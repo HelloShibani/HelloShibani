@@ -2,42 +2,33 @@
 
 # I'm [Shibani Roychoudhury] 😄
 
-I'm currently pursuing a PG-Diploma in Data Science and AI from IITB and have over 13 years of experience in software development and client management. My journey has been a blend of technology and business, giving me a unique perspective on delivering impactful solutions. 📊  
+👩‍💻 Data Scientist specializing in NLP, Generative AI, and decision-support systems.
+🧠 Passionate about building explainable, modular AI pipelines using LangChain, vector databases, and LLMs.
+🚀 Former software engineer (15+ yrs) turned AI system designer—focusing on real-world ML applications in insurance, HR, and e-commerce.
+📦 Projects include multi-agent RAG assistants, recommender systems with fallback logic, and Dockerized AI pipelines.
+🔍 Always exploring the bridge between research and usable AI.  
 
 Currently looking for a internship / job 🔎 [Email me](mailto:helloshibanibiz@gmail.com)
 
 ---
 
-### I have technical expertise and interest in:
+> 🔧 **Tools:** Python, SQL, LangChain, Hugging Face, ChromaDB, FastAPI  
+> 🧠 **Focus:** NLP, Generative AI, Recommender Systems, Explainable ML  
+> 🚀 **What I build:** Modular AI pipelines, document-grounded assistants, Dockerized ML systems
 
-- 🧠 Python, SQL
-- 📈 Machine Learning
-- 📝 Natural Language Processing (NLP)
 
 ---
 
-### Languages, Libraries & Tools
+### ⚙️ Languages & Tools I Work With
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!--<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
-
----
-
-### 🌟 Projects
-- [BoomBikes Demand Prediction](https://github.com/helloshibani/BoomBikes-Demand-Prediction)
-- [Banking Risk Analytics EDA](https://github.com/helloshibani/Banking-Risk-Analytics-EDA)
-- [RSVP Analysis](https://github.com/helloshibani/RSVP_CASE_Study)
 
 ---
 
